@@ -86,3 +86,23 @@ Métodos devem ser:
 
 ## 📚 Métodos 3
 - Projeto smartTv
+
+## 📚 Escopo
+Ambiente onde uma variavel pode ser acessada. [link](https://glysns.gitbook.io/java-basico/sintaxe/escopo)
+
+## 📚 Palavras reservadas
+ São 52 [palavras reservadas](https://glysns.gitbook.io/java-basico/sintaxe/palavras-reservadas) organizadas por classificação. 
+
+ ## 📚 Java docs
+ - Estudar [documentação java](https://glysns.gitbook.io/java-basico/sintaxe/documentacao).
+ - No terminal execute o comando abaixo:\
+`javadoc -encoding UTF-8 -docencoding ISO-8859-1  -d ../docs  src/*.java`\
+esse código fara que seja criado um arquivo de documentação do seu código.
+
+ ## 📚 Terminal e argumentos 2
+ Terminal:\
+ Os arquivos que podem ser executados pelo terminal estão na pasta bin, são os arquivos compilados que são `.class`.\
+No terminal usamos: `cd c:caminaho\doarquivo\bin>java nomearquivo` sem usar a extenção .class, e damos enter, isso executara o codigo no terminal sem uma ide.
+ 
+  ## 📚 Terminal e argumentos 3
+Argumentos\
