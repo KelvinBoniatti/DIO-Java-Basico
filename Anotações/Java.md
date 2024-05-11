@@ -76,3 +76,13 @@ String resultado = (a==b) ? "verdadeiro" : "false";
 ## 📚 Operadores 7
 - `&&` Operador Lógico "E".
 - `||` Operador Lógico "OU".
+
+## 📚 Métodos 2
+Atributos são variaveis, métodos são funções ou ações.\
+Métodos devem ser:
+- Nomeados como verbo
+- Seguir padrão `camelCase`(minhaPrimeiraClase)
+- Caso um método não retorne nenhum valor, ele será representado pela palavra chave `void`.
+
+## 📚 Métodos 3
+- Projeto smartTv
