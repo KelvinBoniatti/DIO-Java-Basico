@@ -16,12 +16,6 @@
             "request": "launch",
             "mainClass": "AboutMe",
             "projectName": "AboutMe_baf69900",
-            "args": [
-                "Fulano",
-                "Detal",
-                "33",
-                "2.5"
-            ]
 
         },
         {
