@@ -103,6 +103,6 @@ esse código fara que seja criado um arquivo de documentação do seu código.
  Terminal:\
  Os arquivos que podem ser executados pelo terminal estão na pasta bin, são os arquivos compilados que são `.class`.\
 No terminal usamos: `cd c:caminaho\doarquivo\bin>java nomearquivo` sem usar a extenção .class, e damos enter, isso executara o codigo no terminal sem uma ide.
- 
-  ## 📚 Terminal e argumentos 3
-Argumentos\
+
+
+[Trilha GitHub](https://github.com/digitalinnovationone/trilha-java-basico)
